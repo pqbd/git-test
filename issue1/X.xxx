@@ -1,0 +1,7 @@
+z->test();
+
+z->run();
+
+z->result();
+
+z->close();
